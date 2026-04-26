@@ -189,10 +189,10 @@ Approved description of what the customer built with Altude.
 
 ## Links
 
-- **Altude website:** TBD
-- **Documentation:** TBD
-- **GitHub organization:** TBD
-- **Community:** TBD
+- **Altude website:** [https://altude.so](https://altude.so)
+- **Documentation:** [https://docs.altude.so](https://docs.altude.so)
+- **GitHub organization:** [https://github.com/altudeplatform]([https://altude.so](https://github.com/altudeplatform)
+- **Community:** [https://discord.com/invite/uAkQZtMmxg](https://discord.com/invite/uAkQZtMmxg)
 
 ---
 
