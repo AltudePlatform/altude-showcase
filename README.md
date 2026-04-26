@@ -48,6 +48,19 @@ A public TypeScript playground for exploring Altude examples and experimentation
 
 ---
 
+### Altude Dynamic Gas Station Demo
+
+A reference demo showing how Dynamic embedded wallets integrate with Altude's gasless relay service on Solana. Users sign in with email, get an embedded wallet, sign a transaction, and Altude relays it to the blockchain — covering all gas fees.
+
+- **Repository:** https://github.com/AltudePlatform/altude-dynamic-gas-station-demo
+- **Type:** Demo
+- **Language:** TypeScript
+- **Stack:** React 19, Vite, Tailwind CSS, shadcn/ui, Dynamic SDK, Solana Web3.js
+- **Use case:** Gasless Solana transactions with Dynamic wallet integration
+- **Status:** Public example
+
+---
+
 ## Public Examples & Demos
 
 Open-source projects, demos, and playgrounds built with or around Altude.
@@ -55,6 +68,7 @@ Open-source projects, demos, and playgrounds built with or around Altude.
 | Project | Description | Type | Language | Link |
 | --- | --- | --- | --- | --- |
 | Altude Playground | Public TypeScript playground for exploring Altude examples and experimentation. | Playground | TypeScript | [Repository](https://github.com/AtCloudDiwash/altude-playground) |
+| Altude Dynamic Gas Station Demo | Gasless Solana transactions with Dynamic embedded wallet integration — users sign in with email, sign a transaction, and Altude covers gas fees. | Demo | TypeScript | [Repository](https://github.com/AltudePlatform/altude-dynamic-gas-station-demo) |
 
 ---
 
